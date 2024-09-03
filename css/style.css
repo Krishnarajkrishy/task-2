@@ -1,0 +1,126 @@
+/* font family */
+.righteous-regular {
+  font-family: "Righteous", sans-serif;
+}
+
+
+*{
+   font-family: "Righteous", sans-serif;
+
+}
+
+
+
+
+
+/* body */
+.singup {
+  background: linear-gradient(to right, #083f9b, #7f56d9);
+}
+
+.container-bg {
+  background: linear-gradient(to bottom left, #2f5dae, #7f56d9);
+}
+
+.mini-container {
+  background: linear-gradient(to bottom, #2e08c7, #7e08c7);
+}
+
+.span-color {
+  color: #0e38cd;
+}
+.women-img-bg{
+  background: radial-gradient(#b3a8f4,transparent 60%);
+}
+
+.para-position{
+  position: absolute;
+  top: 25%;
+  left: -8rem;
+}
+
+
+/* container-2 */
+
+.container-2 {
+  background: linear-gradient(to top, #d9ecff, #f0f3ff);
+}
+
+.btn-color{
+  background-color: #0E38CD;
+}
+
+.bg-fiveth-container{
+  background: linear-gradient(to top right, #00B3FF , #7a6ee5, #E441FF);
+}
+
+.email-color{
+  background-color: #7a6ee5;
+}
+
+/* sith container - position */
+
+.play-img{
+  position: absolute;
+  left: 45%;
+  top: 31%;
+}
+
+.banner-img{
+  position: absolute;
+  right: -10px;
+  bottom: -1%;
+}
+
+
+/* seventh - container */
+
+.seventh-bg{
+  background: linear-gradient(to top,#DBEDFF,#DBEDFF);
+}
+
+.center-img{
+  position: absolute;
+  left: 44%;
+  top: -41px;
+}
+
+.left-div{
+  position: absolute;
+  left: 48px;
+  top: 58px;
+  background-color: gainsboro;
+  box-shadow: 0 0 2px ;
+
+}
+
+.right-div{
+  position: absolute;
+  right: 33px;
+  top: 58px;
+  background-color: gainsboro;
+  box-shadow: 0 0 2px ;
+}
+
+.center-div{
+  z-index: 1;
+  background-color: gainsboro;
+  box-shadow: 0 0 5px ;
+}
+
+.last-container-bg{
+  background: linear-gradient(to left, #00B3FF , #7a6ee5, #E441FF);
+}
+
+.social-media{
+  border: solid;
+  box-shadow: 0 0 1px ;
+}
+
+.social-media-img{
+  background-color: white;
+  padding: .5rem;
+}
+
+
+
